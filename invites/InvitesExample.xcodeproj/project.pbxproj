@@ -546,7 +546,7 @@
 				INFOPLIST_FILE = InvitesExampleSwiftUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.google.firebase.quickstart.InvitesExampleSwiftUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.co.JchanKchan.firebase.quickstart.InvitesExampleSwiftUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
@@ -571,7 +571,7 @@
 				INFOPLIST_FILE = InvitesExampleSwiftUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.google.firebase.quickstart.InvitesExampleSwiftUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.co.JchanKchan.firebase.quickstart.InvitesExampleSwiftUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.2;
@@ -595,7 +595,7 @@
 				INFOPLIST_FILE = InvitesExampleUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.google.firebase.quickstart.InvitesExampleUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.co.JchanKchan.firebase.quickstart.InvitesExampleUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = InvitesExample;
@@ -617,7 +617,7 @@
 				INFOPLIST_FILE = InvitesExampleUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.google.firebase.quickstart.InvitesExampleUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.co.JchanKchan.firebase.quickstart.InvitesExampleUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = InvitesExample;
@@ -685,7 +685,7 @@
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = "$(inherited)";
-				PRODUCT_BUNDLE_IDENTIFIER = com.google.firebase.quickstart.InvitesExample;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.co.JchanKchan.firebase.quickstart.InvitesExample;
 				PRODUCT_NAME = InvitesExample;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -708,7 +708,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				PRODUCT_BUNDLE_IDENTIFIER = com.google.firebase.quickstart.InvitesExample;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.co.JchanKchan.firebase.quickstart.InvitesExample;
 				PRODUCT_NAME = InvitesExample;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -834,7 +834,7 @@
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = InvitesExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.google.firebase.quickstart.InvitesExample;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.co.JchanKchan.firebase.quickstart.InvitesExample;
 				PRODUCT_NAME = InvitesExample;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -851,7 +851,7 @@
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = InvitesExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.google.firebase.quickstart.InvitesExample;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.co.JchanKchan.firebase.quickstart.InvitesExample;
 				PRODUCT_NAME = InvitesExample;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 			};

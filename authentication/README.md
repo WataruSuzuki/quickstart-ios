@@ -24,7 +24,7 @@ Getting Started
 ### Facebook Login Setup
 - Go to the [Facebook Developers Site](https://developers.facebook.com) and follow all
   instructions to set up a new iOS app. When asked for a bundle ID, use
-  `com.google.firebase.quickstart.AuthenticationExample`.
+  `jp.co.JchanKchan.firebase.quickstart.AuthenticationExample`.
 - Go to the [Firebase Console](https://console.firebase.google.com) and navigate to your project:
   - Select the **Auth** panel and then click the **Sign In Method** tab.
   - Click **Facebook** and turn on the **Enable** switch, then click **Save**.
